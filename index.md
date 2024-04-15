@@ -10,7 +10,7 @@ Here is **Katherine Zhang (张思雨)**.
 
 I am a graduate student majoring in **communication** .My research interests are situated at the confluence of technology, social identity, and media effects, with a particular focus on the mediating role of online communities in the dissemination of information and misinformation to the broader public. 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *zsyalicia@163.com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *zsyalicia[at]163[dot]com*
 
 ## Academic Background
 
