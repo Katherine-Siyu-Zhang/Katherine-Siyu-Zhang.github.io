@@ -14,7 +14,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
+- **Sep 2022 - June 2025:** Maynooth University (BSc, EECS)
 - **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
 - **June 2022 - Nov 2022:** Cambridge University (Intern)
 
@@ -23,12 +23,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Research Interests
 
 - Misinformation and Disinformation
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
-- [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- Online Communities apply Social Networks Analysis
+- Persuasion
 
 ---
 
