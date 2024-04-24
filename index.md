@@ -35,3 +35,18 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Mar 2024：**One paper accepted to ICA 2024.
 - **Oct 2023：**Happy to be awarded the National Graduate Scholarship.
 - **Jan 2023：**One paper accepted to IAMCR 2023.
+
+---
+
+## Hobbies
+
+### Running and Boxing
+
+-I enjoyed long-distance running and boxing.They remove my worries, refreshes my body, and brings me courage to address any challenges.
+
+### Playing Drums
+
+-I recently developed a hobby of playing drums. I find them super cool, and playing drums allows me to immerse myself in music. Maybe in the future, I’ll even try performing in a live band!
+
+### Taking a walk randomly
+-I know it's strange. But it really helps clear and mind.

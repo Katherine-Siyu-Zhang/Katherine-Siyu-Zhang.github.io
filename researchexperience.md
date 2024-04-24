@@ -4,64 +4,49 @@ permalink: /researchexperience/index.html
 title: Research Experience
 ---
 
-## Motivation
+## Scholarships
 
-As a youth from southern Fujian (Hokkien), entrepreneurial spirit runs in my family's and my own bones. From a young age, we were instilled with the belief that one must become their own "boss" and setup their own business. My aspiration is to become a serial entrepreneur.<br>
+- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 12 undergraduates are selected around the world
+- Aug 2023：**FEPG Scholarship** ($1400)<br>One of the highest undergraduate awards at FZU
+- May 2023：**XiamenAir Scholarship** ($600)<br>One of the highest undergraduate awards at FZU
+- Oct 2023：Best Academic Performance of Maynooth (€100)
+- Oct 2022：Best Student Project Award of Maynooth (€100)
+- March 2024：First Prize Scholarship of FZU ($2100)
+- March 2023：Second Prize Scholarship of FZU ($1400)
+- Sep 2022：First Prize Scholarship of FZU ($2100)
+- March 2022：First Prize Scholarship of FZU ($2100)
+- Sep 2021：Third Prize Scholarship of FZU ($700)
+- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth<br>
 
----
+## Competitions (Selected)
 
-## OpenIoT Team
+- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
+- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition
+- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
+- June 2023：First Prize (Provincial championship) in Fujian Youth Science Innovation Project Competition
+- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
+- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
+- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
+- Aug 2022： Third Prize in China National College Student Computer Design Competition
+- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University 2022<br>
 
-During undergraduate, my two roommates and I co-founded a tech group called OpenIoT. With an entrepreneurial spirit in technology, we participated in numerous innovation and entrepreneurship competitions. As of 2024, the OpenIoT team has grown to include 28 official members and has accumulated a total of six national-level competition awards and over **$20000 funding**.<br>
+## Honors
 
-## Team News
+- Dec 2023：AAAI 2024 UC Scholar<br>Mentor: Tozammel Hossain, University of North Texas
+- Aug 2023：FEPG Scholarship<br>Funded by Fujian Energy Petrochemical Group
+- May 2023：XiamenAir Scholarship<br>Funded by Xiamen Airline, China
+- May 2023：Outstanding Student Leaders of FZU
+- May 2021：Merit Student of Fuzhou University
+- *<font color='gray'>July 2023：Nomination for Baosteel Scholarship</font>*
+- *<font color='gray'>Sep 2022：Nomination for China National Scholarship</font>*
+- *<font color='gray'>June 2022：Nomination for China Telecom Scholarship</font>*<br>
 
-- **Jan 2024：**Our team won the Finalist Award (Top 3%) in China International College Students’ Innovation Competition.
-- **Sep 2023：**Our work [DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU (in Chinese)](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Our team won the Best Technology Award (Top 1%) in National Youth Science Innovation Project Competition.
-- **June 2023：**Our team won a national undergraduate research training grant (about $3000).
-- **May 2023：**If you are interested in the IoT, robotics, or AIGC, welcome to [join us!](https://fzuiot.site/english/)<br>
+## Services
 
----
-
-## Our Fundings
-
-- Project: DefenderIoT — Leading the New Generation of Industrial Inspection<br>**Funding $2000** (Grant No. 20230357)<br>China International College Students’ Innovation Competition Award<br>Project Leader & Product Manager (2024)<br><br>
-- Project: Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot<br>**Funding $3000** (Grant No. 202310386056)<br>China National Undergraduate Innovation and Entrepreneurship Training Program<br>Project Leader & Student Investigator (2023-2024)<br><br>
-- Project: Community Monitoring System based on Smart IoT and Inspection Vehicle<br>**Funding $1000** (Grant No. 2023080208)<br>National Youth Science Innovation Project Competition Award<br>Project Leader & Student Investigator (2023)<br><br>
-
----
-
-## Team Members
-
-- **Co-founders:** Hanlin Cai, Jiaqi Hu, Zheng Li
-- **Members @2020:** Linshi Li, Yuchen Fang, Shuying Liu, Xiang Fang, Jiankun Li, Xinguo Wang, Miaolan Zhou, Chaoyue Chen
-- **Members @2021:** Wenzhuo Fan, Jiacheng Huang, Xun Sun, Yujie Jiang, Zhongheng Sun, Yuxuan Zheng, Hongming Chen
-- **Members @2022:** Wenjing Chen, Roubing Yao, Yuxin Luo, Han Huang, Yang Lu, Jiali Su, Yanzhuo Gao, Yuzhuo Shi
-- **Members @2023:** [Join us!](https://fzuiot.site/english/)<br>
-
----
-
-## Some Group Photos
-
-> Our group website: [https://fzuiot.site/](https://fzuiot.site/)
-
-<div>
-<img src="https://caihanlin.com/images/teams/teams1.jpg">
-</div>
-<br>
-
-<div>
-<img src="https://caihanlin.com/images/teams/teams2.jpg">
-</div>
-<br>
-
-<div>
-<img src="https://caihanlin.com/images/teams/teams.jpg">
-</div>
-<br>
-
-<div>
-<img src="https://caihanlin.com/images/teams/teams4.jpg">
-</div>
-<br>
+- Dec 2023 - Present：AAAI Student Membership
+- Sep 2022 - Present：IEEE Student Membership
+- Sep 2022 - Present：CAAI Student Membership
+- April 2022：Top 10 Best Volunteers (Only 10/30000) of Fuzhou University
+- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
+- July 2021：Outstanding volunteer at the 44th session of the World Heritage Committee
+- April 2021：Outstanding volunteer at the 4th Digital China Summit<br>
