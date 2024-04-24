@@ -15,8 +15,6 @@ title: Publications
 - **Katherine Zhang** (2023, December). *Media Network and Collaboration Journalism: The Transition from Agenda Setting to Agenda Loop*. Paper presented at the 4th Innovation Forum for PhD Candidates, Communication University of China, Beijing, China, *2nd place in main competition*.
 
 
-<br>
-
 ## Journal Paper
 
 - Guoqiang Liu & **Katherine Zhang** (2023). *The Tug of War Over “Coins”: Platform Dual Expansion and the Contingency of Digital Labor*. *Contemporary Communication*, 3, 71-75.
@@ -24,17 +22,11 @@ title: Publications
 - Guoqiang Liu & **Katherine Zhang** (2023). *When Algorithmic Errors Occur: An Experimental Study on the Impact of Factual Verification Algorithms on User Trust and Usage Intent*. *Shanghai Journalism Review*, 10, 16-27.
 
 
-  <br>
-
----
-
 ## Working Manuscript
 
 - Detecting Visual Misinormation Network in online Social Media Platform<br>
 
 - Toward a model of Debunking AI Generated Visual Misinformation: A Mixed-Methods Approach<br>
 
-  <br>
 
----
 
