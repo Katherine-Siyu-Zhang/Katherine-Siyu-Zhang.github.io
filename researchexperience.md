@@ -6,7 +6,7 @@ title: Research Experience
 ## Research Assistant
 
 **Research Assistant** 2022 - 2023  
-Chinese Cyber Nationalism Collective Behavior and Value Guidance Research within the Discourse Theory Framework Project, Journalism and Communication Department  
+Chinese Cyber Nationalism Collective Behavior and Value Guidance Research within the Discourse Theory Framework Project, Journalism and Communication Department,Sichuan International Studies University  
 - Finish the literature review section  
 - Assist Dr. Liu in analyzing discourse of Chinese netizens on national issues  
 
