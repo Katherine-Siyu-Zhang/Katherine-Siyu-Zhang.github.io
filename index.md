@@ -46,7 +46,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ### Playing Drums
 
--I recently developed a hobby of playing drums. I find them super cool, and playing drums allows me to immerse myself in music. Maybe in the future, I’ll even try performing in a live band!
+-I recently developed a hobby of playing drums. I find it super cool, and playing drums allows me to immerse myself in music. Maybe in the future, I’ll even try performing in a live band!
 
 ### Taking a walk randomly
 -I know it's strange. But it really helps clear and mind.
