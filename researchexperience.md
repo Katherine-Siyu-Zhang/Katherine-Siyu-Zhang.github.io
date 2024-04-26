@@ -3,18 +3,29 @@ layout: page
 permalink: /researchexperience/index.html
 title: Research Experience
 ---
-## Research Assistant
-
-**Research Assistant** 2022 - 2023  
-Chinese Cyber Nationalism Collective Behavior and Value Guidance Research within the Discourse Theory Framework Project, Journalism and Communication Department,Sichuan International Studies University  
-- Finish the literature review section  
-- Assist Dr. Liu in analyzing discourse of Chinese netizens on national issues  
-
 ## Grants and Fellowships
 
 - **Chongqing Graduate Student Research Funding (2022).** Perception of Time and Rhythmic Adaptation: A Study of New Media Time in Algorithmic Systems, Amount: ¥5,000.
 - **National Undergraduate Student Research Funding (2021).** The Usage of Internet among Beijing's elderly, Amount: ¥10,000.
 - **Beijing Undergraduate Student Research Funding (2019).** The Evolution of Couriers’ Media Images, Amount: ¥5,000.
+
+## Research Assistant
+
+### Research Assistant
+**Construction of Discourse System of New Form of Human Civilization Project**  
+National Social Science Foundation Key Project  
+Supervisor: Prof. Guoqiang Liu  
+2023 - 2024
+- Conducted data collection and analysis, contributing to the initial phase results.
+- Co-authored a publication: Guoqiang Liu & **Katherine Zhang** (2023). *The Tug of War Over “Coins”: Platform Dual Expansion and the Contingency of Digital Labor*. *Contemporary Communication*, 3, 71-75.
+
+### Research Assistant
+**Chinese Cyber Nationalism Collective Behavior and Value Guidance Research within the Discourse Theory Framework Project**  
+National Social Science Foundation Project  
+Supervisor: Prof. Guoqiang Liu  
+2022 - 2023
+- Completed a comprehensive literature review for the project.
+- Assisted in analyzing the discourse of Chinese netizens on national issues, providing insights into the Construction of discourse system of new form of human civilization.
 
 ## Scholarships
 
