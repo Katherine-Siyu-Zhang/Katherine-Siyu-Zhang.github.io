@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="images/caihanlin.jpg" class="floatpic" width="400" height="530">
+<img src="images/caihanlin.jpg" class="floatpic" width="500" height="630">
 
 Here is **Katherine Zhang (张思雨)**.
 
