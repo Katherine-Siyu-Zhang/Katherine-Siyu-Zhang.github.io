@@ -2,8 +2,6 @@
 layout: page
 ---
 
-# About Me
-
 <img src="images/caihanlin.jpg" class="floatpic" width="500" height="630">
 
 Here is **Katherine Zhang (张思雨)**. Nice to meet you! Hope you are having a nice day😊 
