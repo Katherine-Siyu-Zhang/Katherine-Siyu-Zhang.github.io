@@ -2,17 +2,20 @@
 layout: page
 ---
 
-# About Mes
+# About Me
 
 <img src="images/caihanlin.jpg" class="floatpic" width="500" height="630">
 
-Here is **Katherine Zhang (张思雨)**.I am a graduate student majoring in Communication.My research interests are centered on the intersection of **Technology, Communication, and Society**. Within this interdisciplinary field, my work primarily focuses on two key areas:
+Here is **Katherine Zhang (张思雨)**. Nice to meet you! Hope you are having a nice day😊 
 
-## 1. Technology and Public Discourse
+## Research Focus
+My research interests are centered on the intersection of **Technology, Communication, and Society**. Within this interdisciplinary field, my work primarily focuses on two key areas:
+
+### 1. Technology and Public Discourse
 
 I investigate the impact of technology on public discourse, with a specific focus on how networked publics interpret news events and how digital platforms and other new communication methods are reshaping the dynamics of public information.
 
-## 2. Misinformation in the Age of AI
+### 2. Misinformation in the Age of AI
 
 I am dedicated to understanding **the emerging forms of misinformation** that arise from AI technologies. My research examines:
 - The characteristics and dissemination of visual misinformation
@@ -24,14 +27,6 @@ I am **theoretically-driven**. In my research, I adopt theoretical insights from
 ## Contact
 
 If you are interested in any aspect of my work, I would love to chat and collaborate. Please email me at [zsyalicia@163.com](mailto:zsyalicia@163.com).
-
-
-## Academic Background
-
-- **Sep 2022 - June 2025:** Sichuan International Studies University (MA, Communication)
-- **Sep 2018 - June 2022:** China University of Labor Relations (BA, Journalism)
-- **Sep 2020 - June 2021:** Renmin University of China (Exchange student)
-
 
 
 ## News and Updates
