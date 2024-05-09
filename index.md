@@ -8,8 +8,14 @@ layout: page
 
 Here is **Katherine Zhang (张思雨)**.
 
-I am a graduate student majoring in communication .My research interests are situated at the confluence of **technology, social identity, and media effects**, with a particular focus on the mediating role of **online communities** in the dissemination of information and misinformation to the broader public. 
-I am **theoretically-driven**.In my research, I adopt theoretical insights from cognitive psychology, social psychology, and communication science. I apply **computional method** and **qualitative(survey and experiment) methods** to investigate above reaearch area.
+I am a graduate student majoring in communication.
+My research interests are centered on the intersection of **Technology, Communication, and Society**. Within this interdisciplinary field, my work primarily focuses on two key areas:
+
+Firstly, I investigate the impact of technology on public discourse, with a specific focus on how networked publics interpret news events and how digital platforms and other new communication methods are reshaping the dynamics of public information.
+
+Secondly, I am dedicated to understanding **the emerging forms of misinformation** that arise from AI technologies. My research examines 1) the characteristics and dissemination of visual misinformation, 2) the effects of such messages and individual perceptions, and 3) potential strategies for mitigating these issues through corrections and fact-checking messages.
+
+I am **theoretically-driven**.In my research, I adopt theoretical insights from cognitive theory, social psychology, and communication science. I apply **computional method** and **qualitative(survey and experiment) methods** to investigate above reaearch area.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *zsyalicia@163.com*
 
