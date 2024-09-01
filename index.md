@@ -4,7 +4,7 @@ layout: page
 
 <img src="images/caihanlin.jpg" class="floatpic" width="500" height="630">
 
-Here is **Katherine Zhang (张思雨)**. Nice to meet you! Hope you are having a nice day😊 
+Here is **Katherine Zhang (张思雨)**. Nice to meet you! Welcome😊 
 
 ## Research Focus
 My research interests are centered on the intersection of **Technology, Communication, and Society**. Within this interdisciplinary field, my work primarily focuses on two key areas:
@@ -28,7 +28,7 @@ If you are interested in any aspect of my work, I would love to chat and collabo
 
 
 ## News and Updates
-
+- **Sep 2024：**One paper is online.
 - **Mar 2024：**One paper accepted to ICA 2024.
 - **Oct 2023：**Happy to be awarded the National Graduate Scholarship.
 - **Jan 2023：**One paper accepted to IAMCR 2023.
