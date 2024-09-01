@@ -11,6 +11,14 @@ title: Research Experience
 
 ## Research Assistant
 
+### Research Member
+**Civic Tech Lab**  
+2024 - Present  
+Project Title: Public perception of novel food  
+Advisor: Prof. Weiyu Zhang (National University of Singapore)  
+- Processed and analyzed a decade of Facebook data using Python, including fine-tuning the BERT model and employing BiLSTM-CRF for Named Entity Recognition  
+- Interpreted the results to illustrate the evolving public attitudes toward novel foods
+
 ### Research Assistant
 **Construction of Discourse System of New Form of Human Civilization Project**  
 National Social Science Foundation Key Project  
