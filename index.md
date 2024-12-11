@@ -4,7 +4,7 @@ layout: page
 
 <img src="images/caihanlin.jpg" class="floatpic" width="500" height="630">
 
-Here is **Katherine Zhang (张思雨)**. Nice to meet you! Welcome😊 
+Here is **Siyu Katherine Zhang (张思雨)**. Nice to meet you! Welcome😊 
 
 ## Research Focus
 My research interests are centered on the intersection of **Technology, Communication, and Society**. Within this interdisciplinary field, my work primarily focuses on two key areas:
