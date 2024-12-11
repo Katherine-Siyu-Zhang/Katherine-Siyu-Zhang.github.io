@@ -20,7 +20,7 @@ I am dedicated to understanding **the emerging forms of misinformation** that ar
 - The effects of such messages and individual perceptions
 - Potential strategies for mitigating these issues through corrections and fact-checking messages
 
-I am **theoretically-driven**. In my research, I adopt theoretical insights from cognitive theory, social psychology, and communication science. I apply **computational method** and **qualitative (survey and experiment) methods** to investigate the above research area.
+I am **theoretically-driven**. In my research, I adopt theoretical insights from cognitive theory, social psychology, and communication science. I apply **computational method** and **quanlitative (survey and experiment) methods** to investigate the above research area.
 
 ## Contact
 
